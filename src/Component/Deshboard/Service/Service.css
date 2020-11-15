@@ -1,0 +1,24 @@
+.section__heading{
+    text-align: center;
+    padding-top: 90px;
+
+}
+.Services__manage img{
+    width: 100px;
+    margin:0 auto
+}
+.card{
+    padding: 20px;
+    border: none;
+    text-align: center;
+}
+.service__section{
+    background-color:#F1F6F4;
+    overflow: hidden; 
+}
+.service__section .Services__manage{
+    background-color:#F1F6F4;
+}
+div.card-body{
+    height:100px
+}

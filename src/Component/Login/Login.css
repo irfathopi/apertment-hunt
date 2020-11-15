@@ -1,0 +1,133 @@
+.loginPanel{
+    width: 570px;
+    height: 457px;
+    margin: 0 auto;
+    margin-top: 171px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 25px;
+    }
+    .loginTitle{
+    height: 29px;
+    left: 34.24%;
+    right: 60.83%;
+    top: 208.03px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    }
+    .footerFrom{
+        display: flex;
+    }
+    .footerFromRight{
+        margin-left: 50%;
+    }
+    .rememberMe{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    margin-left: 10px;
+    color: #000000;
+    }
+    .checkbox{
+    height: 15px;
+    width: 15px;
+    margin-top: 10px;
+    background-color: #eee;
+    }
+    
+    .forgotPass{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+        
+        text-decoration-line: underline;
+        
+        color: #F9A51A;
+    }
+    .footerText{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .userName{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    border: none;
+    border-bottom: 1px solid #C5C5C5;
+    padding: 15px;
+    }
+    .stateLine{
+        margin: 50px auto;
+        text-align: center;
+        font-size: 20px;
+        position: relative;
+    }
+    .stateLine:before{
+        content: "";
+        width: 200px;
+        display: block;
+        position: absolute;
+        height: 2px;
+        background-color: #AAAAAA;
+        left: 30px;
+        top: 50%;
+    }
+    .stateLine:after{
+        content: "";
+        width: 200px;
+        display: block;
+        position: absolute;
+        height: 2px;
+        background-color: #AAAAAA;
+        right: 30px;
+        top: 50%;
+    }
+    .StateLine{
+        text-align: center;
+    }
+    .google{
+        text-align: center;
+        height: 51px;
+        cursor: pointer;
+        font-size: 18px;
+        width:461px;
+        background: #000;
+        position: relative;
+        margin: 0 auto;
+        background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 57px;
+    margin-bottom: 20px;
+    line-height: 51px;
+    }
+    .google img{
+        height: 37px;
+        position: absolute;
+       left: 6%;
+       top: 50%;
+       transform: translate(-50%,-50%)
+    }
+    .loginPanelTwo{
+        height: 550px !important;
+        margin-top: 65px !important;
+    }
+    .userNameTwo{
+        margin-bottom: 10px !important;
+    }
+    .responseMessage{
+        font-size: 34px;
+        text-align: center;
+        font-weight:700;
+    }

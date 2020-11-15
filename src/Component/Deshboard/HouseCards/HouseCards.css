@@ -1,0 +1,30 @@
+.houserent__color{
+    color:#275A53;
+    padding-top: 20px
+}
+.houseCards{
+    background-color: #F1F6F4;
+    width: 100%;
+    height:auto;
+    overflow: hidden;
+}
+.heading{
+    text-align: center;
+    color:#16322E;
+    font-weight: bold;
+    padding: 20px
+}
+.card__padding{
+    padding: 20px
+}
+.amount{
+    color: #275A53;
+    font-weight: bold;
+    display:inline
+}
+.card-title{
+    font-weight: bold;
+}
+.viewdetails__btn{
+    float: right
+}

@@ -1,0 +1,16 @@
+.header__banner{
+    width:100%;
+    height: 350px;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.banner__heading{
+    padding: 80px 10px 10px 10px;
+    padding-bottom: 20px;
+    color:white
+}
+
+.search__btn{
+    background-color: #275A53;
+    border: none;
+}
